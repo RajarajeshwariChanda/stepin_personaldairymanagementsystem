@@ -1,5 +1,5 @@
-#ifndef _DIARY_H_
-#define _DIARY_H_
+#ifndef _AMD_H_
+#define _AMD_H_
 #include<stdio.h>
 
 #include<stdlib.h>
